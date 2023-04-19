@@ -21,9 +21,9 @@
 <h2>Usage</h2>
 
 <ol>
-<li>Click the AIestheticsAnalyzer icon in your browser toolbar to activate the extension.</li>
+<li>Click the AIestheticsAnalyzer icon in your browser toolbar and click 'Activate' to activate the extension.</li>
 <li>Move your cursor over any text or color on the page to view the font and color information in the info box.</li>
-<li>Click the AIestheticsAnalyzer icon again to deactivate the extension.</li>
+<li>Click the AIestheticsAnalyzer icon again and click 'Deactivate' to deactivate the extension.</li>
 </ol>
 
 <h2>Contributing</h2>
