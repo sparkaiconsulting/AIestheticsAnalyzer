@@ -35,5 +35,3 @@
 <p>AIestheticsAnalyzer is released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 
 <hr>
-
-<p>AIestheticsAnalyzer: A browser extension by Spark AI Consulting to identify fonts and pick colors from any webpage. Useful for designers and developers.</p>
