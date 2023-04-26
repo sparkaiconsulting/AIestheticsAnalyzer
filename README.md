@@ -30,6 +30,10 @@
 
 <p>If you would like to contribute to AIestheticsAnalyzer, please submit a pull request on <a href="https://github.com/sparkaiconsulting/AIestheticsAnalyzer">GitHub</a>.</p>
 
+<h2>Privacy</h2>
+
+<p>We take your privacy seriously. AIestheticsAnalyzer does not collect any personal data. For more information, please read our privacy policy.</p>
+
 <h2>License</h2>
 
 <p>AIestheticsAnalyzer is released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
