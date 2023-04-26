@@ -1,6 +1,6 @@
 # AIestheticsAnalyzer
 
-<p>AIestheticsAnalyzer is a browser extension developed by Spark AI Consulting that enables users to identify any font and pick any color from a web page.</p>
+<p>AIestheticsAnalyzer is a browser extension developed by <a href="https://sparkaiconsulting.com/">Spark AI Consulting</a> that enables users to identify any font and pick any color from a web page.</p>
 
 <h2>Installation</h2>
 
