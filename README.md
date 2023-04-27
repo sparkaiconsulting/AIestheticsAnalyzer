@@ -28,7 +28,7 @@
 
 <h2>Using color-thief</h2>
 
-<p>This extension uses the '<b>color-thief</b>' JavaScript library, specifically the '<b>color-thief.min</b>' JavaScript file to extract colors from images on the page. '<b>color-thief.min.js</b>' is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). We have included information about the use of color-thief in this readme.txt file, which is compliant with the license terms. Please ensure that you comply with the license terms when using this library in your extension. To do so, include the license file in your extension's directory and provide attribution to the color-thief library in your code or documentation.</p>
+<p>This extension uses the <b>'color-thief'</b> JavaScript library, specifically the <b>'color-thief.min'</b> JavaScript file to extract colors from images on the page. <b>'color-thief.min.js'</b> is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). We have included information about the use of color-thief in this readme.txt file, which is compliant with the license terms. Please ensure that you comply with the license terms when using this library in your extension. To do so, include the license file in your extension's directory and provide attribution to the color-thief library in your code or documentation.</p>
 
 <h2>Contributing</h2>
 
