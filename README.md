@@ -26,6 +26,10 @@
 <li>Click the AIestheticsAnalyzer icon again and click 'Deactivate' to deactivate the extension.</li>
 </ol>
 
+<h2>Using color-thief</h2>
+
+<p>This extension uses the 'color-thief' JavaScript library, specifically the 'color-thief.min' JavaScript file to extract colors from images on the page. color-thief.min.js is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). We have included information about the use of color-thief in this readme.txt file, which is compliant with the license terms. Please ensure that you comply with the license terms when using this library in your extension. To do so, include the license file in your extension's directory and provide attribution to the color-thief library in your code or documentation.</p>
+
 <h2>Contributing</h2>
 
 <p>If you would like to contribute to AIestheticsAnalyzer, please submit a pull request on <a href="https://github.com/sparkaiconsulting/AIestheticsAnalyzer">GitHub</a>.</p>
